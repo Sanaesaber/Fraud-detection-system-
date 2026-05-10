@@ -99,22 +99,6 @@ Real-time operational monitoring dashboard for fraud risk teams.
 ---
 
 ## 🗂️ Project Structure
-fraud-detection-system/
-├── data/
-│   └── creditcard.csv
-├── sql/
-│   └── fraud_profiling.sql
-├── notebooks/
-│   ├── 01_EDA_and_SQL_Profiling.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Modeling_and_Evaluation.ipynb
-│   └── 04_SHAP_Explainability.ipynb
-├── dashboard/
-│   └── fraud_monitoring.pbix
-├── requirements.txt
-└── README.md
-
----
 
 ## 🛠️ Tech Stack
 
